@@ -2,6 +2,9 @@
 
 A Scratch maze game created for the CS50 Scratch Project.
 
+## Play The Game
+play on Scratch : https://scratch.mit.edu/projects/1317204631
+
 ## Concept
 This game teaches route optimization and binary logic through a maze challenge.
 
